@@ -1,0 +1,52 @@
+p {
+    color: darkgoldenrod
+}
+
+h1 {
+    color: darkgoldenrod
+}
+
+h2 {
+    color: darkgoldenrod
+}
+
+ul {
+    color: darkslategrey
+}
+
+ol {
+    color: darkslategrey
+}
+
+#p1 {
+    color: darkslategrey
+}
+
+#p2 {
+    color: darkslategrey
+}
+
+#p3 {
+    color: darkslategrey
+}
+
+#p4 {
+    color: darkslategrey
+}
+
+#w {
+    border-style: solid
+}
+
+#q {
+    border-style: solid;
+}
+
+body {
+    background-image: url(vector.jpg);
+    height: 200vh;
+    background-position: center;
+
+
+}
+
